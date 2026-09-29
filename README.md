@@ -1,6 +1,6 @@
 # Sachin Bhargava
 
-### Principal Cloud Platform Engineer | OCI • Kubernetes • Terraform • CI/CD • Automation
+### Lead Principal Platform Software Engineer | OCI • Kubernetes • Terraform • CI/CD • Automation
 
 I build cloud platforms and delivery automation that make infrastructure and releases **repeatable, observable, and easier to operate**.
 
@@ -65,7 +65,12 @@ Automation       Python • Bash • jq
 Operations       Monitoring • Alerting • Troubleshooting
 ```
 
+## Currently
+
+Open to **Staff/Principal Platform Engineer** and **SRE** roles — Bay Area or remote.
+
 ## Connect
 
 - GitHub: [github.com/bhargavasachin](https://github.com/bhargavasachin)
 - LinkedIn: [linkedin.com/in/sachin-bhargava](https://www.linkedin.com/in/sachin-bhargava)
+- Email: bhargava.sachin@gmail.com
